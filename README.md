@@ -1,5 +1,5 @@
 <h1 align="center"> Explorer Lab #01 </h1>
-
+parei em 43min
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
